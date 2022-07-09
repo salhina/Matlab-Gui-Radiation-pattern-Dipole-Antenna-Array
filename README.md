@@ -1,18 +1,13 @@
 # Matlab-Gui-Radiation-pattern-Dipole-Antenna-Array
 Matlab Gui : Radiation pattern of Dipole &amp; Antenna Array
-Project: Designing the #RadiationPattern of the standard #Dipole antennas with different lengths and the extraction of different Characteristics such as HPBW and in the second part: the various #antennaArray (#phasedAntenna) configurations in a #MatlabGUI.
-
-✔️ Dipoles: Short, Half-wave, Full wave & variable length Dipole (with #HPBW )
-
-✔️ Antenna Array (phased Antenna) with variable parameters: Number of elements, Distances, phase gradient.
-
-▶️ The Explainer video : 
- 
- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FCVu-16SsCk/0.jpg)](https://www.youtube.com/watch?v=FCVu-16SsCk)
+Project: Designing the #RadiationPattern of the standard #Dipole antennas with different lengths and the extraction of different Characteristics such as HPBW and in the second part: the various #antennaArray (#phasedAntenna) configurations in a #MatlabGUI.   
+   ✔️ Dipoles: Short, Half-wave, Full wave & variable length Dipole (with #HPBW )   
+   ✔️ Antenna Array (phased Antenna) with variable parameters: Number of elements, Distances, phase gradient.   
+   ▶️ The Explainer video :  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FCVu-16SsCk/0.jpg)](https://www.youtube.com/watch?v=FCVu-16SsCk)
 
 # main 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/52040368/169893902-eb5e5a0a-3c50-468d-8893-0c7a9c106451.png">
+<p align="center"><img src="https://user-images.githubusercontent.com/52040368/169893902-eb5e5a0a-3c50-468d-8893-0c7a9c106451.png">
 </p>
 
 # The main Window
