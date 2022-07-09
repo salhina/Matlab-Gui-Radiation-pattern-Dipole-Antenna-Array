@@ -6,9 +6,9 @@ Project: Designing the #RadiationPattern of the standard #Dipole antennas with d
 
 ✔️ Antenna Array (phased Antenna) with variable parameters: Number of elements, Distances, phase gradient.
 
-▶️ Tthe Explainer video : 
+▶️ The Explainer video : 
  
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FCVu-16SsCk/0.jpg)](https://www.youtube.com/watch?v=FCVu-16SsCk)
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FCVu-16SsCk/0.jpg)](https://www.youtube.com/watch?v=FCVu-16SsCk)
 
 # main 
 <p align="center">
