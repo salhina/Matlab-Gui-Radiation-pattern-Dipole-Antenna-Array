@@ -41,9 +41,9 @@ This project focuses on designing and visualizing the **radiation patterns** of 
 
 ---
 
-# Explainer Video
+### Explainer Video
 
-### Project Overview and Demo
+#### Project Overview and Demo
 <p align="center">
 <a href="https://www.youtube.com/watch?v=FCVu-16SsCk">
 <img border="0" alt="Explainer Video" src="https://img.youtube.com/vi/FCVu-16SsCk/0.jpg">
