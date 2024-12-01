@@ -15,11 +15,11 @@ This project focuses on designing and visualizing the **radiation patterns** of 
    3. [Radiation Pattern of Array Antenna](#radiation-pattern-of-array-antenna)
    4. [Special Case: 2 Dipoles Comparison](#special-case-2-dipoles-comparison)
    5. [Special Case: Multiple Dipoles Comparison](#special-case-multiple-dipoles-comparison)
-5. [About the Project](#about-the-project)
-6. [Audio Podcast](#audio-podcast)
-7. [Resources & Links](#resources--links)
-8. [Stay Connected](#stay-connected)
-9. [Stay Updated](#stay-updated)
+   6. [About the Project](#about-the-project)
+7. [Audio Podcast](#audio-podcast)
+8. [Resources & Links](#resources--links)
+9. [Stay Connected](#stay-connected)
+10. [Stay Updated](#stay-updated)
 
 ---
 
