@@ -6,20 +6,20 @@ This project focuses on designing and visualizing the **radiation patterns** of 
 ---
 
 ### **Table of Contents**
-- [Key Features](#key-features)
-- [Project Demonstration](#project-demonstration)
-- [Explainer Video](#explainer-video)
-- [Screenshots](#screenshots)
-  - [Main Window of the MATLAB GUI](#main-window-of-the-matlab-gui)
-  - [Radiation Pattern of Dipole Antennas](#radiation-pattern-of-dipole-antennas)
-  - [Radiation Pattern of Array Antenna](#radiation-pattern-of-array-antenna)
-  - [Special Case: 2 Dipoles Comparison](#special-case-2-dipoles-comparison)
-  - [Special Case: Multiple Dipoles Comparison](#special-case-multiple-dipoles-comparison)
-- [About the Project](#about-the-project)
-- [Audio Podcast](#audio-podcast)
-- [Resources & Links](#resources--links)
-- [Stay Connected](#stay-connected)
-- [Stay Updated](#stay-updated)
+1. [Key Features](#key-features)
+2. [Project Demonstration](#project-demonstration)
+3. [Explainer Video](#explainer-video)
+4. [Screenshots](#screenshots)
+   1. [Main Window of the MATLAB GUI](#main-window-of-the-matlab-gui)
+   2. [Radiation Pattern of Dipole Antennas](#radiation-pattern-of-dipole-antennas)
+   3. [Radiation Pattern of Array Antenna](#radiation-pattern-of-array-antenna)
+   4. [Special Case: 2 Dipoles Comparison](#special-case-2-dipoles-comparison)
+   5. [Special Case: Multiple Dipoles Comparison](#special-case-multiple-dipoles-comparison)
+5. [About the Project](#about-the-project)
+6. [Audio Podcast](#audio-podcast)
+7. [Resources & Links](#resources--links)
+8. [Stay Connected](#stay-connected)
+9. [Stay Updated](#stay-updated)
 
 ---
 
@@ -122,6 +122,6 @@ Feel free to follow me for updates on new projects, tutorials, and more!
 
 ---
 
-### ⭐ Stay Updated
-If you find this project helpful, consider starring the repository to show your support.  
+### **Stay Updated** 
+⭐ If you find this project helpful, consider starring the repository to show your support.  
 Watch the repository to receive notifications for updates and improvements.
