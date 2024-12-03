@@ -34,7 +34,7 @@ Watch the explainer video to get an in-depth demonstration of the project's key 
 - Interactive adjustments for phased antenna arrays
 - Key metrics like **HPBW** and **phase patterns** for ionospheric reflection
 
-**[Watch on YouTube](https://www.youtube.com/watch?v=FCVu-16SsCk)**
+**[![Explainer Video](https://img.shields.io/badge/YouTube-Explainer_Video-blue?logo=youtube)](https://www.youtube.com/watch?v=FCVu-16SsCk)**
 
 ## GUI Overview
 
@@ -168,7 +168,7 @@ The GUI includes several pre-defined examples that showcase the capabilities of 
 
 ## Project Demonstration
 
-A video demonstration of the project is available on YouTube: [YouTube Video](https://www.youtube.com/watch?v=FCVu-16SsCk).
+A video demonstration of the project is available on YouTube: [![Explainer Video](https://img.shields.io/badge/YouTube-Explainer_Video-blue?logo=youtube)](https://www.youtube.com/watch?v=FCVu-16SsCk).
 
 The video covers the following:
 
@@ -181,9 +181,9 @@ The video covers the following:
 This project was developed by **Nabil Salhi**. It leverages MATLAB to provide a visual and interactive platform for understanding the behavior of dipole antennas and phased array antennas. Designed for engineers, enthusiasts, and students, the project aims to enhance the understanding of antenna systems, phased arrays, and the fundamentals of antenna design.
 
 - **Developer:** Nabil SALHI
-- **Contact:** [salhinabilpro@gmail.com](mailto:salhinabilpro@gmail.com)
-- **Created:** 2013, during the preparation for the State Engineer degree at Sidi Mohammed Ben Abdellah University, Fez
-- **Updated:** 2022, for publication
+- **Contact:** [![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail)](mailto:salhinabilpro@gmail.com)
+- **Created:** 2013, during the preparation for the State Engineer degree at Sidi Mohammed Ben Abdellah University, Fez.
+- **Updated:** 2022, for publication.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/52040368/169894012-6a7b776e-e7ed-46af-b124-f7b128c26759.png">
 </p>
@@ -199,9 +199,10 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Resources and Links
 
-* **Project Repository:** [GitHub Repository](https://github.com/salhina/dipole-antenna-matlab)
-* **Project Website:** [Project Website](https://salhina.github.io/)
-* **Explainer Video:** [YouTube Video](https://www.youtube.com/watch?v=FCVu-16SsCk)      
+[![Project Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/salhina/dipole-antenna-matlab)
+[![Project Website](https://img.shields.io/badge/Website-Project-blue?logo=github)](https://salhina.github.io/)
+[![Explainer Video](https://img.shields.io/badge/YouTube-Explainer_Video-blue?logo=youtube)](https://www.youtube.com/watch?v=FCVu-16SsCk)
+  
 
 ---
 ## Connect
