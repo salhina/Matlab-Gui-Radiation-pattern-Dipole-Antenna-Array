@@ -130,7 +130,7 @@ This section allows users to analyze the radiation patterns of arrays with more 
 
 4. **Alignment with Longitudinal Radiation (φ = -2π * d/λ):** The phase difference is set based on the distance between elements and the wavelength ratio, d/λ. When **d/λ = 0.4**, this configuration produces a pattern that aligns with the longitudinal radiation axis, which is a more complex pattern showing beam steering and varying sidelobes.
 
-5. **Alignment with Longitudinal Radiation (φ = -2π * d/λ) | Following Predefined d/λ:** This option adjusts the phase shift according to the user-defined distance between the dipoles (d/λ), allowing users to explore a range of longitudinal radiation patterns based on different element spacings.
+5. **Alignment with Longitudinal Radiation (φ = -2π * d/λ) & Following Predefined d/λ:** This option adjusts the phase shift according to the user-defined distance between the dipoles (d/λ), allowing users to explore a range of longitudinal radiation patterns based on different element spacings.
 
 #### Interactive Features:
 
