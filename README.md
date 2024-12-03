@@ -62,6 +62,69 @@ This section allows for the analysis of antenna arrays. Users can adjust paramet
 * **Two-Dipole Cases:** Allows users to compare the radiation patterns of two dipoles under specific configurations. The configurations may include variations in the phase difference (φ) and distance between the dipoles (d/λ).
 * **Multiple-Dipole Cases:** Allows users to analyse the radiation patterns of arrays with multiple dipoles. The configurations may include different phase gradients and element spacings, showcasing how these factors influence the overall radiation pattern.
 
+
+
+
+
+
+#### Two-Dipole Cases: Association de Plusieurs Antennes Collinaires (Association of Two Collinear Antennas)
+
+This section allows users to compare the radiation patterns of two dipoles under specific configurations. The configurations can vary based on:
+
+- **Phase Difference (φ):** The phase shift between the two antennas, which can significantly influence the directionality and shape of the radiation pattern.
+- **Distance between Dipoles (d/λ):** The distance between the two dipoles, expressed as a ratio to the wavelength (λ). Adjusting this distance can affect the coupling between antennas and the resulting interference pattern.
+
+##### Input Parameters:
+- **Number of Antennas (n):** Set to **2** (for two dipoles).
+- **Distance between Dipoles (d/λ):** Set to **0.4** (a typical value for demonstrating collinear antenna patterns).
+- **Phase Difference (φ):** Set to **-144** degrees (this can be adjusted to study different radiation patterns and interference effects).
+
+##### Buttons:
+- **Tracer (Plot):** Generate the radiation pattern based on the input parameters (phase difference and distance).
+- **Cas Spéciaux (Special Cases):** Open a menu with predefined special cases for comparing two dipoles.
+
+##### Special Cases Menu (for Two Antennas):
+- **φ = 0 and d = λ/2:** This configuration places the two antennas in-phase (φ = 0) with a half-wavelength distance between them (d = λ/2), creating constructive interference and a directional radiation pattern.
+- **φ = 180 and d = λ/2:** With a phase difference of 180 degrees (out of phase) and a half-wavelength separation, this configuration creates destructive interference, producing a radiation pattern with a null at certain angles.
+- **φ = 90 and d = λ/4:** This setting adjusts the phase difference to 90 degrees and the dipoles are separated by a quarter-wavelength (d = λ/4), offering an interesting configuration with more complex radiation characteristics.
+
+#### Multiple-Dipole Cases: Association de Plusieurs Antennes (Association of n Antennas)
+
+This section allows users to analyze the radiation patterns of arrays with more than two dipoles, facilitating the study of how multiple elements influence the overall radiation pattern. Multiple dipoles can be configured with varying phase gradients and element spacings to explore their effects on directivity, beamwidth, and side lobes.
+
+##### Input Parameters:
+- **Number of Antennas (n):** Set to **6**, allowing the user to design a phased array with six dipoles.
+- **Distance between Elements (d/λ):** Set to **0.4**, a fixed separation between the dipoles.
+- **Phase Difference (φ):** Set to **-144** degrees, but can be varied for different configurations.
+
+##### Buttons:
+- **Tracer (Plot):** Generate the radiation pattern for the specified multiple-dipole configuration.
+- **Cas Spéciaux (Special Cases):** Open a menu with predefined special cases for multiple antennas.
+
+#### Special Cases Menu (for Multiple Antennas):
+**Title:** Association of n Antennas; Special Cases.
+
+1. **Alignment with Transverse Radiation (φ = 0):** This configuration aligns the elements so they radiate with a phase difference of 0, leading to uniform and symmetric radiation in the transverse direction.
+   
+2. **Positive Phase Gradient (φ = 129):** This setup introduces a positive phase gradient across the antenna array, which causes the beam to tilt in one direction (typically resulting in a steered beam).
+   
+3. **Negative Phase Gradient (φ = -129):** A negative phase gradient leads to beam steering in the opposite direction, demonstrating the flexibility of phased arrays in beamforming.
+
+4. **Alignment with Longitudinal Radiation (φ = -2π * d/λ):** The phase difference is set based on the distance between elements and the wavelength ratio, d/λ. When **d/λ = 0.4**, this configuration produces a pattern that aligns with the longitudinal radiation axis, which is a more complex pattern showing beam steering and varying sidelobes.
+
+5. **Alignment with Longitudinal Radiation (φ = -2π * d/λ) | Following Predefined d/λ:** This option adjusts the phase shift according to the user-defined distance between the dipoles (d/λ), allowing users to explore a range of longitudinal radiation patterns based on different element spacings.
+
+#### Interactive Features:
+
+- **Real-time Plot Updates:** As the user adjusts parameters like phase and distance between elements, the radiation pattern is dynamically updated, providing instant feedback on how these changes affect the overall radiation characteristics.
+  
+- **Advanced Analysis:** In addition to visualising the radiation patterns, the GUI provides detailed analysis of the beamwidth, directivity, and side lobe levels for each configuration, helping users assess the effectiveness of different antenna array designs.
+
+
+
+
+
+
 ## Results and Visualisation
 
 The GUI provides visualisations of the radiation patterns for both individual dipole antennas and antenna arrays. The radiation patterns are displayed in polar plots, providing a clear representation of the antenna's directivity and gain in different directions.
