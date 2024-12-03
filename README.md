@@ -178,7 +178,12 @@ The video covers the following:
 
 ## About the Project
 
-This project was developed by Nabil Salhi. The project leverages MATLAB to provide a visual and interactive platform for understanding the behaviour of dipole antennas and phased array antennas. It is designed for engineers, enthusiasts, and students interested in learning about antenna systems, phased arrays, and the fundamentals of antenna design.
+This project was developed by **Nabil Salhi**. It leverages MATLAB to provide a visual and interactive platform for understanding the behavior of dipole antennas and phased array antennas. Designed for engineers, enthusiasts, and students, the project aims to enhance the understanding of antenna systems, phased arrays, and the fundamentals of antenna design.
+
+- **Developer:** Nabil SALHI
+- **Contact:** [salhinabilpro@gmail.com](mailto:salhinabilpro@gmail.com)
+- **Created:** 2013, during the preparation for the State Engineer degree at Sidi Mohammed Ben Abdellah University, Fez
+- **Updated:** 2022, for publication
 <p align="center">
 <img src="https://user-images.githubusercontent.com/52040368/169894012-6a7b776e-e7ed-46af-b124-f7b128c26759.png">
 </p>
@@ -197,12 +202,13 @@ This project is licensed under the MIT License. See the LICENSE file for details
 * **Project Repository:** [GitHub Repository](https://github.com/salhina/dipole-antenna-matlab)
 * **Project Website:** [Project Website](https://salhina.github.io/)
 * **Explainer Video:** [YouTube Video](https://www.youtube.com/watch?v=FCVu-16SsCk)      
-* **Developer's Portfolio and Blog:** [Portfolio](https://salhina.github.io/)
-* **Developer's LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/nabil-salhi)
 
-## Contact
+---
+## Connect
 
-For questions or feedback, please contact the developer at salhinabilpro@gmail.com
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-blue?logo=github)](https://salhina.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/nabil-salhi)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?logo=gmail)](mailto:salhinabilpro@gmail.com)
 
 ## Stay Updated
 
