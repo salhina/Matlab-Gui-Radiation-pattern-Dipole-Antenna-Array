@@ -20,20 +20,33 @@ The project is divided into two main parts:
     * Phase gradient
 * **MATLAB GUI for Antenna Design:** Interactive tools for visualising and analysing radiation patterns, as well as adjusting antenna design parameters.
 
-## Getting Started
+## Explainer Video
 
-1. **Download the Project:** Clone or download the project repository from [GitHub Repository](https://github.com/salhina/dipole-antenna-matlab).
-2. **Open the GUI:** Open the MATLAB GUI file (e.g., `main.m` or `gui.m`) in MATLAB. 
-3. **Explore the Interface:** Familiarise yourself with the different sections of the GUI, including the dipole antenna analysis section, the antenna array analysis section, and the input parameters.
-4. **Run Simulations:** Select the desired antenna type and configure the parameters. Click the "Run" or "Simulate" button to generate the radiation pattern.
+### Project Overview and Demo
+<p align="center">
+<a href="https://www.youtube.com/watch?v=FCVu-16SsCk">
+<img border="0" alt="Explainer Video" src="https://img.youtube.com/vi/FCVu-16SsCk/0.jpg">
+</a>
+</p>
+
+Watch the explainer video to get an in-depth demonstration of the project's key features, including the radiation patterns of dipoles and antenna arrays. The video covers:
+- Visualization of different dipole types (short, half-wave, full-wave, and variable-length)
+- Interactive adjustments for phased antenna arrays
+- Key metrics like **HPBW** and **phase patterns** for ionospheric reflection
+
+**[Watch on YouTube](https://www.youtube.com/watch?v=FCVu-16SsCk)**
 
 ## GUI Overview
 
+
+Main Window of the MATLAB GUI
+<p align="center"><img src="https://user-images.githubusercontent.com/52040368/169894000-4abe2abb-655f-4b38-b7e3-e65204731a7b.png"></p>
 The GUI is divided into two main sections:
 
 ### 1. Radiation Pattern of Dipole Antennas
 
 This section allows for the analysis of individual dipole antennas. The interface includes:
+<p align="center"><img src="https://user-images.githubusercontent.com/52040368/169894006-f591f7a2-0d97-4f64-953e-57500a607774.png"></p>
 
 * **Polar Plot:** Displays the radiation pattern of the selected dipole antenna.
 * **Antenna Type Selection:** Allows users to select from short, half-wave, full-wave, and variable-length dipoles.
@@ -48,6 +61,7 @@ This section allows for the analysis of individual dipole antennas. The interfac
 This section allows for the analysis of antenna arrays. Users can adjust parameters such as the number of elements, distance between elements, and phase gradient to study their effect on the radiation pattern. The section also includes functionalities to visualise special cases of two and multiple dipole configurations.
 
 **Main Interface:**
+<p align="center"><img src="https://user-images.githubusercontent.com/52040368/169894011-e6ed4132-50be-4fc9-8df9-3025de06ffd9.png"></p>
 
 * **Polar Plot:** Displays the radiation pattern of the antenna array for given input parameters.
 * **Input Parameters:** Allows users to input parameters such as:
@@ -70,6 +84,7 @@ This section allows for the analysis of antenna arrays. Users can adjust paramet
 #### Two-Dipole Cases: Association de Plusieurs Antennes Collinaires (Association of Two Collinear Antennas)
 
 This section allows users to compare the radiation patterns of two dipoles under specific configurations. The configurations can vary based on:
+<p align="center"><img src="https://user-images.githubusercontent.com/52040368/169894016-81c0c984-77a7-438a-86e1-7d88451aee20.png"></p>
 
 - **Phase Difference (φ):** The phase shift between the two antennas, which can significantly influence the directionality and shape of the radiation pattern.
 - **Distance between Dipoles (d/λ):** The distance between the two dipoles, expressed as a ratio to the wavelength (λ). Adjusting this distance can affect the coupling between antennas and the resulting interference pattern.
@@ -91,6 +106,7 @@ This section allows users to compare the radiation patterns of two dipoles under
 #### Multiple-Dipole Cases: Association de Plusieurs Antennes (Association of n Antennas)
 
 This section allows users to analyze the radiation patterns of arrays with more than two dipoles, facilitating the study of how multiple elements influence the overall radiation pattern. Multiple dipoles can be configured with varying phase gradients and element spacings to explore their effects on directivity, beamwidth, and side lobes.
+<p align="center"><img src="https://user-images.githubusercontent.com/52040368/169894018-e4c2b14e-0ae2-4413-bfab-30b2bc6fafc8.png"></p>
 
 ##### Input Parameters:
 - **Number of Antennas (n):** Set to **6**, allowing the user to design a phased array with six dipoles.
@@ -150,7 +166,7 @@ The GUI includes several pre-defined examples that showcase the capabilities of 
 
 ## Project Demonstration
 
-A video demonstration of the project is available on YouTube: [YouTube Video](https://www.youtube.com/watch?v=dipole-demo).
+A video demonstration of the project is available on YouTube: [YouTube Video](https://www.youtube.com/watch?v=FCVu-16SsCk).
 
 The video covers the following:
 
@@ -161,6 +177,9 @@ The video covers the following:
 ## About the Project
 
 This project was developed by Nabil Salhi. The project leverages MATLAB to provide a visual and interactive platform for understanding the behaviour of dipole antennas and phased array antennas. It is designed for engineers, enthusiasts, and students interested in learning about antenna systems, phased arrays, and the fundamentals of antenna design.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/52040368/169894012-6a7b776e-e7ed-46af-b124-f7b128c26759.png">
+</p>
 
 ## License
 
@@ -175,13 +194,13 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 * **Project Repository:** [GitHub Repository](https://github.com/salhina/dipole-antenna-matlab)
 * **Project Website:** [Project Website](https://salhina.github.io/)
-* **Explainer Video:** [YouTube Video](https://www.youtube.com/watch?v=dipole-demo)
+* **Explainer Video:** [YouTube Video](https://www.youtube.com/watch?v=FCVu-16SsCk)      
 * **Developer's Portfolio and Blog:** [Portfolio](https://salhina.github.io/)
 * **Developer's LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/nabil-salhi)
 
 ## Contact
 
-For questions or feedback, please contact the developer at [Email Address].
+For questions or feedback, please contact the developer at salhinabilpro@gmail.com
 
 ## Stay Updated
 
